@@ -113,6 +113,5 @@ Performed API testing using Reqres API in Postman:
 
 This assessment helped me strengthen my understanding of QA processes, testing approaches, and API validation. I focused on keeping everything simple, clear, and practical.
 
----
-<img width="799" height="2761" alt="image" src="https://github.com/user-attachments/assets/2e07a535-2897-4c4e-ab77-e591485ea5f7" />
+
 
