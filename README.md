@@ -82,8 +82,8 @@ Performed API testing using Reqres API in Postman:
 
 **Files included:**
 
-* `Codexx.postman_collection.json`
-* `Codexx-EnvironmentSetup.postman_environment.json`
+* `postman_collection.json`
+* `EnvironmentSetup.postman_environment.json`
 
 **Steps:**
 
