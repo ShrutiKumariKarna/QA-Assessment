@@ -71,18 +71,6 @@ Performed API testing using Reqres API in Postman:
 
 ---
 
-## 🗄️ Database Testing
-
-Performed database testing on the **classicmodels MySQL database** to verify data integrity, consistency, accuracy, and CRUD operations using SQL queries.
-
-It includes:
-
-* Data integrity testing (Primary key, Foreign key, NULL checks, duplicates)
-* CRUD operation validation (Create, Read, Update, Delete)
-* Test scenarios and execution results
-
----
-
 ## 🔗 API Testing – Access My Work
 
 ### Option 1: View via Postman Link
@@ -120,6 +108,18 @@ It includes:
    * `api_key` = reqres_fe63f853c4a24a7bbebb1f9f15f2598d
    * `token` = QpwL5tke4Pnpja7X5
 6. Run requests from collection
+
+---
+
+## 🗄️ Database Testing
+
+Performed database testing on the **classicmodels MySQL database** to verify data integrity, consistency, accuracy, and CRUD operations using SQL queries.
+
+It includes:
+
+* Data integrity testing (Primary key, Foreign key, NULL checks, duplicates)
+* CRUD operation validation (Create, Read, Update, Delete)
+* Test scenarios and execution results
 
 ---
 
